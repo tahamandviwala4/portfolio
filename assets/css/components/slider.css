@@ -2,6 +2,15 @@
   #slider.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
+.slider {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  overflow-x: auto;
+  scroll-snap-type: inline mandatory;
+}
+
+.slider-item {
+  /* Make the nearest element snap in to center when the user stop scrolling: */
+  scroll-snap-align: start;
+}

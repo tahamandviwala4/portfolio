@@ -12,5 +12,5 @@
 
 .slider-item {
   /* Make the nearest element snap in to center when the user stop scrolling: */
-  scroll-snap-align: start;
+  scroll-snap-align: end;
 }

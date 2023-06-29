@@ -218,6 +218,11 @@ body.loaded {
 .w-100 {
   width: 100%;
 }
+.section-title {
+  margin-block-end: 30px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
 .nodisplay {
   display: none;
 }

@@ -36,7 +36,7 @@ Based in Los Angeles, California.
 
 Let's Start
 
-alt = Taha, the blonde, dressed in a green hoodie with a smile on her face
+alt = Taha, 
 
 
 
@@ -48,11 +48,11 @@ alt = clients
 
 #---------- ABOUT ----------#
 
-alt = Taha, the blonde, dressed in a black tops with a smile on her face
+alt = Taha,
 
 I'm a Freelancer Front-end Developer with over 3 years of experience.
 
-I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San Francisco. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.
+I'm a Freelancer Front-end Developer. I'm from India. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.
 
 285+
 Projet Completed

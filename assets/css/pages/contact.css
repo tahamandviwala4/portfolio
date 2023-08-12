@@ -37,7 +37,7 @@
 .contact-form {
   background-color: var(--white);
   padding: 25px;
-  margin-inline: 15px;
+  /* margin-inline: 15px; */
   margin-top: 125px;
 }
 
@@ -67,9 +67,6 @@ textarea {
   max-height: 150px;
 }
 
-.contact-content {
-  margin-left: 15px;
-}
 .contact-list .contact-item {
   display: flex;
   align-items: flex-start;

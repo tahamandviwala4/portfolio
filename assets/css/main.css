@@ -37,9 +37,11 @@
 .header {
   background-color: transparent;
 }
-.header.active {
-  background-color: var(--white);
-}
+/* .header.active {
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(7px);
+} */
 
 /*-----------------------------------*\
   #HERO

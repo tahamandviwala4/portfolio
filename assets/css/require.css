@@ -63,7 +63,7 @@
   --radius-pill: 100px;
   --radius-circle: 50%;
 
-  /* Tranisition */
+  /* Transition */
   --transition-1: 0.25s ease;
   --transition-2: 0.5s ease;
   --transition-3: 0.5s;
@@ -388,4 +388,4 @@ body.loaded {
   color: var(--orange-red);
 }
 
-/* #MEDIA QUEREIS */
+/* #MEDIA QUERIES */

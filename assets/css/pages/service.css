@@ -28,9 +28,10 @@
 \*-----------------------------------*/
 .section-title {
   margin-top: 60px;
+  padding-top: 70px;
 }
 .service {
-  /* padding-block-start: calc(var(--section-padding)+60px); */
+  padding-block-start: calc(var(--section-padding)+60px);
 }
 .service-list {
   display: grid;
@@ -48,3 +49,10 @@
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
+
+/* Mediaquery for larger than 786px screen */
+@media (min-width: 768px) {
+  .service-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}

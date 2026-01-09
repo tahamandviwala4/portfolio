@@ -138,6 +138,10 @@
 .skill .card ion-icon {
   font-size: 3rem;
 }
+.skill .card .skill-icon {
+  height: 3rem;
+  color: var(--jet);
+}
 .skill .card .card-title {
   color: var(--jet);
   font-size: 1.6rem;

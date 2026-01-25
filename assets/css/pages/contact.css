@@ -25,13 +25,25 @@
 /*-----------------------------------*\
   #CONTACT
 \*-----------------------------------*/
+body.loaded{
+  height: 100dvh;
+}
+.contact-main{
+  height: 88%;
+}
+.contact-article{
+  height: 100%;
+  /* margin-top: 150px; */
+}
 .contact {
+  height: 100%;
   background-color: var(--jet);
-  padding-block-start: calc(var(--section-padding)+60px);
 }
 .contact .container {
   display: grid;
   gap: 48px;
+  padding-top: 80px;
+  height: 100%;
 }
 
 .contact-form {
